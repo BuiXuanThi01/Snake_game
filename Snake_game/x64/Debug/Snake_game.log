@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\THI\source\repos\Snake_game\Snake_game\main.cpp(198,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Snake_game.vcxproj -> C:\Users\THI\source\repos\Snake_game\x64\Debug\Snake_game.exe
